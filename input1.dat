@@ -1,0 +1,12 @@
+     78.      Ra
+	 1.0 	   Le
+	 0.75	   m
+	 0.      soret 
+	  0.      ampl
+      10.     omega	 
+	 10.      time_for_count
+     0.000001  eps_poisson
+    1000      Max_counter_poisson
+    0.01      eps_threshold
+    1.0       relativ
+     1.91     relax
